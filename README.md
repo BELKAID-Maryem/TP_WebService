@@ -47,8 +47,15 @@ Tout d'abord , je vais utiliser le wsdl pour generer ce qu'on appelle un proxy c
 
 ![image](https://user-images.githubusercontent.com/102295113/163222813-4bf26026-03f3-48af-964f-94b8893cf79e.png)
 
+2- creer un client SOAP Dot Net :
 
+ - Un otile qui permet a partir de wsdl de me genere le proxy 
 
+![image](https://user-images.githubusercontent.com/102295113/163467577-4b185963-762c-4a75-a0d6-7c6732457c62.png)
+
+- l'execution de notre application c# donne :
+
+![image](https://user-images.githubusercontent.com/102295113/163468244-d4e39f34-ffcc-4bf1-8a92-7f577be1c121.png)
 
 
 
